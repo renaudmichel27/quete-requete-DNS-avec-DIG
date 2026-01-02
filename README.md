@@ -3,9 +3,10 @@ Utilise la commande dig pour récupérer les informations suivantes :
     les adresses IP version 4 du site web de la Wild Code School ! www.wildcodeschool.com
 
 dig A www.wildcodeschool.com -ou meme plus court - dig +short A www.wildcodeschool.com
+
 199.60.103.225  et   199.60.103.31 
-on voit une chaîne de CNAME vers HubSpot
-le site www est servi via HubSpot.
+
+on voit une chaîne de CNAME vers HubSpot le site www est servi via HubSpot.
     
     les adresses IP version 6 d'odyssey et en déduire l'hébergeur de ton fournisseur de quête préféré
 
